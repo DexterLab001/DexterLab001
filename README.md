@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterlab001&label=Profile%20views&color=0e75b6&style=flat" alt="dexterlab001" /> </p>
 
-- 🔭 I’m currently working on [AnimeXplay](https://github.com/DexterLab001/AnimeXplay)
+- 🔭 I’m currently working on **Developing Websites.**
 
 - 🌱 I’m currently learning **JavaScript, Generative AI, Data Analysis.**
 
