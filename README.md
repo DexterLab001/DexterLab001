@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Yash Rawat</h1>
+<h1 align="center">Hi , I'm Yash Rawat</h1>
 <h3 align="center">👨‍💻 3rd Year CS Student @ GEU | Web Developer | Game Dev Enthusiast | AI-Powered System | Passionate About Projects & Applications</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexterlab001&label=Profile%20views&color=0e75b6&style=flat" alt="dexterlab001" /> </p>
 
-- 🔭 I’m currently working on **Developing Websites.**
+-  I’m currently working on **Developing Websites.**
 
-- 🌱 I’m currently learning **JavaScript, Generative AI, Data Analysis.**
+-  I’m currently learning **JavaScript, Generative AI, Data Analysis.**
 
-- 👯 I’m looking to collaborate on **💻 Cool web apps and websites 🌐**
+-  I’m looking to collaborate on **Cool web apps and websites**
 
-- 💬 Ask me about **Web Development(HTML, CSS, JavaScript), App Development, UI/UX Design Ideas.**
+-  Ask me about **Web Development(HTML, CSS, JavaScript), App Development, UI/UX Design Ideas.**
 
-- 📫 How to reach me **rawatsurinder927@gmail.com**
+-  How to reach me **rawatsurinder927@gmail.com**
 
-- ⚡ Fun fact **I code best with lo-fi music and instant noodles nearby 🍜🎶**
+- **I code best with lo-fi music and instant noodles nearby**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
